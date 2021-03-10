@@ -2,4 +2,4 @@
 dynamic article weppage build with php
 
 ERD
-![alt text](https://github.com/fritzbernert/dynamic-article-Page/blob/main/erd.jpg?raw=true)
+![alt text](https://github.com/fritzbernert/dynamic-article-Page/blob/main/erd.png?raw=true)
